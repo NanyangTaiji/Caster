@@ -10,7 +10,7 @@
 
 package com.mradzinski.caster;
 
-import android.support.annotation.ColorInt;
+import androidx.annotation.ColorInt;
 
 import java.io.Serializable;
 

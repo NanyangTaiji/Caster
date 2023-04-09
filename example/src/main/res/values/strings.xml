@@ -2,4 +2,6 @@
     <string name="app_name">CasterExample</string>
     <string name="play">Play</string>
     <string name="resume">Resume</string>
+    <string name="ok">Enter</string>
+    <string name="cancel">Cancel</string>
 </resources>
